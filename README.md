@@ -1,2 +1,1 @@
-# prec-smart
-Precision based sample size calculation for pilot SMART
+# Precision based sample size calculation for pilot SMART
