@@ -9,4 +9,4 @@ Given that DTRs are generally less well researched, a pilot study is often neces
 
 
 If you have used the precision based sample size calculator, please also cite:
-'Yan, X., Ghosh, P., & Chakraborty, B. (2020). Sample size calculation based on precision for pilot sequential multiple assignment randomized trial (SMART). Biometrical Journal.'
+'Yan, X., Ghosh, P. and Chakraborty, B., 2021. Sample size calculation based on precision for pilot sequential multiple assignment randomized trial (SMART). Biometrical Journal, 63(2), pp.247-271.'
